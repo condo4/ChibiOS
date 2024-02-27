@@ -31,6 +31,8 @@
 
 #include <stdarg.h>
 
+#include "oop_sequential_stream.h"
+
 /**
  * @brief   Float type support.
  */
